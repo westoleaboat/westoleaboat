@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @westoleaboat
-- 👀 I’m interested in FOSS and bitcoin
+- 👀 I’m interested in FOSS and Bitcoin
 - 🌱 I’m currently learning Docker & Linux administration.
 - 💞️ I’m looking to collaborate on open source projects
 <!--- - 📫 How to reach me:
