@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @westoleaboat
-- 👀 I’m interested in FOSS and Bitcoin
-- 🌱 I’m currently learning Docker & Linux administration.
-- 💞️ I’m looking to collaborate on open source projects
-<!--- - 📫 How to reach me:
+- 👋 Hi, I’m Tomas Chacon, 
+- 👀 I’m interested in programming and developing apps with Python.
+- 🌱 I’m currently learning HubsPot CRM & Docker.
+- 💞️ I’m looking to collaborate on open source projects and improve my IT skills.
+📫 How to reach me:
 
-
-
-westoleaboat/westoleaboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please visit my Web portfolio at: https://my-portfolio-tc.herokuapp.com/ or through email @ tomaschacon732@hotmail.com
