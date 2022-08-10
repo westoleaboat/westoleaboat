@@ -1,9 +1,9 @@
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tomas-chacon-76560993/">
+  <a href="https://www.linkedin.com/in/tomas-chacon-76560993/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC8ECvlLo5TlqioJSwoB2srA">
+  <a href="https://www.youtube.com/channel/UC8ECvlLo5TlqioJSwoB2srA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
