@@ -16,7 +16,7 @@
 
 I am a self taught web developer based in Finland
 - 👀 I’m interested in back-end and developing web apps
-- 🌱 I’m currently learning HubsPot CRM & Docker.
+- 🌱 I’m currently learning HubSpot CRM & Docker.
 - 💞️ I’m looking to collaborate on open source projects and research technical content
 
 - 📫 How to reach me: visit my web portfolio: https://tomascportfolio.netlify.app/ or through email @ tomaschacon732@hotmail.com
