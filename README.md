@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/tomas-chacon-76560993/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +21,7 @@ I am a self taught web developer based in Finland
 
 - 📫 How to reach me: visit my web portfolio: https://tomascportfolio.netlify.app/ or through email @ tomaschacon732@hotmail.com
 
----
+--- -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
